@@ -20,6 +20,7 @@
 <tr>
 <td width="280" align="center">
 
+<!-- Thay bằng ảnh/GIF anime cute của bạn: đặt file vào assets/anime.gif -->
 <img src="./assets/anime.gif" width="260" alt="anime" />
 
 </td>
@@ -55,7 +56,6 @@ kan@arch:~$ cat about.md
 - 🌌 Có một "không gian riêng" tại **[tomatodev.me](https://tomatodev.me)** — portfolio Next.js + Three.js
 - 🐧 Dùng Arch (btw), tự host mọi thứ bằng Docker, nối các máy qua Tailscale
 - 🎯 Mục tiêu: Kỹ sư Phần mềm chuyên nghiệp, đào sâu Kubernetes và CI/CD
-- 🤝 Muốn gia nhập **GDGoC-UIT** để làm dự án cộng đồng, code review và kết nối
 
 <br>
 
@@ -90,9 +90,12 @@ kan@arch:~$ git log --oneline --graph --all
 ```
 
 <p align="center">
-   <a href="https://github.com/kan-ckm/tomato_cinema"><b>tomato_cinema</b></a>
-  &nbsp;·&nbsp;
-   <a href="https://github.com/kan-ckm/tomato_Commerce"><b>tomato_Commerce</b></a>
+  <a href="https://github.com/kan-ckm/tomato_cinema">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato_cinema&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="🍅 tomato_cinema" />
+  </a>
+  <a href="https://github.com/kan-ckm/tomato_Commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato_Commerce&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="🛒 tomato_Commerce" />
+  </a>
 </p>
 
 <br>
@@ -102,12 +105,12 @@ kan@arch:~$ htop --user kan-ckm
 ```
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kan-ckm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kan-ckm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="top langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kan-ckm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="📊 GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kan-ckm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="💻 Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kan-ckm&theme=tokyonight&hide_border=true&background=1a1b26" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=kan-ckm&theme=tokyonight&hide_border=true&background=1a1b26" alt="🔥 Streak" />
 </p>
 
 <br>
