@@ -87,15 +87,15 @@ kan@arch:~$ git log --oneline --graph --all
 
 ```text
 * a3f9c21 (HEAD -> main) tomato_cinema   NestJS 11 + Go 1.24 · gRPC · RabbitMQ · OTel · Nginx   [07/2026 → now]
-* 7be04d8 tomato_commerce   React 18 · Express · MongoDB · Stripe · Aggregation Pipelines        [03/2024 → 07/2024]
+* 7be04d8 tomato_Commerce   React 18 · Express · MongoDB · Stripe · Aggregation Pipelines        [03/2024 → 07/2024]
 ```
 
 <p align="center">
   <a href="https://github.com/kan-ckm/tomato_cinema">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato_cinema&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="tomato_cinema" />
   </a>
-  <a href="https://github.com/kan-ckm/tomato-commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato-commerce&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="tomato-commerce" />
+  <a href="https://github.com/kan-ckm/tomato_Commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato_Commerce&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="tomato_Commerce" />
   </a>
 </p>
 
@@ -106,12 +106,8 @@ kan@arch:~$ htop --user kan-ckm
 ```
 
 <p align="center">
-  <a href="https://github.com/kan-ckm/tomato_cinema">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato_cinema&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="tomato_cinema" />
-  </a>
-  <a href="https://github.com/kan-ckm/tomato_Commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato_Commerce&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="tomato_Commerce" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kan-ckm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kan-ckm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="top langs" />
 </p>
 
 <p align="center">
