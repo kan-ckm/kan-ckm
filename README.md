@@ -1,124 +1,134 @@
+<!--
+  Tokyo Night palette
+  bg #1a1b26 · fg #c0caf5 · blue #7aa2f7 · purple #bb9af7
+  green #9ece6a · cyan #7dcfff · yellow #e0af68 · red #f7768e · comment #565f89
+-->
+
 <div align="center">
 
-  <!-- Dynamic Typing Header -->
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+L%C3%AA+Ph%E1%BA%A1m+Tu%E1%BA%A5n+Anh+%F0%9F%91%8B;Fullstack+%26+Microservices+Engineer;Arch+Linux+User+%26+Home+Lab+Enthusiast;3D+Web+%26+Game+Development+Tinkerer](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+L%C3%AA+Ph%E1%BA%A1m+Tu%E1%BA%A5n+Anh+%F0%9F%91%8B;Fullstack+%26+Microservices+Engineer;Arch+Linux+User+%26+Home+Lab+Enthusiast;3D+Web+%26+Game+Development+Tinkerer)" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a1b26,50:7aa2f7,100:bb9af7&section=header&text=kan-ckm&fontColor=c0caf5&fontSize=44&fontAlignY=40" width="100%" />
 
-  <p align="center">
-    <a href="[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)">
-      <img src="[https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=0ea5e9&logo=github](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=0ea5e9&logo=github)" alt="Followers" />
-    </a>
-    <img src="[https://img.shields.io/badge/Location-Ho_Chi_Minh_City,_VN-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white](https://img.shields.io/badge/Location-Ho_Chi_Minh_City,_VN-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white)" alt="Location" />
-    <img src="[https://img.shields.io/badge/OS-Arch_Linux_%7C_Hyprland-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white](https://img.shields.io/badge/OS-Arch_Linux_%7C_Hyprland-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)" alt="Arch Linux" />
-  </p>
+<a href="https://tomatodev.me">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&height=30&lines=%24+whoami+%E2%86%92+Aspiring+Software+Engineer;Distributed+Systems+%7C+NestJS+%2B+Go;Arch+Linux+%2B+Docker+%2B+Tailscale;Building+%E2%86%92+tomatodev.me" alt="typing" />
+</a>
+
 </div>
 
----
+<br>
 
-### `whoami`
+<table>
+<tr>
+<td width="280" align="center">
 
-```yaml
-name: Lê Phạm Tuấn Anh (Tomato)
-role: Fullstack Web & Microservices Engineer
-education: B.Sc. in Information Technology @ UTH (Ho Chi Minh City University of Transport)
-architecture_focus:
-  - Polyglot Microservices (NestJS)
-  - Event-Driven Architecture & High-Performance RPC (gRPC, Protobuf, RabbitMQ)
-  - Fullstack Web & Interactive 3D Experiences (React, Three.js / R3F)
-environment:
-  workstation: Arch Linux + Hyprland + Fish Shell
-  homelab: Self-hosted Debian Server (Docker, Prometheus, Grafana, Tailscale Mesh VPN)
-interests:
-  - Game Development (Unity 3D / URP) & Game Localization / Binary Modding
-  - Local LLM & Automated AI Pipelines (Ollama, Whisper, RAG)
+<!-- Thay bằng ảnh/GIF anime cute của bạn: đặt file vào assets/anime.gif -->
+<img src="./assets/anime.gif" width="260" alt="anime" />
+
+</td>
+<td>
+
+```bash
+kan@arch:~$ neofetch
+
+  kan-ckm@arch
+  ────────────────────────────
+  Name     Lê Phạm Tuấn Anh
+  Role     Aspiring Software Engineer
+  Edu      CNTT @ UTH (2026 → now)
+  OS       Arch Linux
+  Pkg      pnpm
+  Net      Tailscale
+  Infra    Docker · Nginx · Grafana
+  Web      https://tomatodev.me
+  Goal     Distributed systems · DevOps
 ```
 
----
+</td>
+</tr>
+</table>
 
-### 🛠️ Tech Stack & Ecosystem
+<br>
 
-#### **Backend, Microservices & Architecture**
-<p align="left">
-  <img src="[https://skillicons.dev/icons?i=ts,js,go,cs,cpp,py,nestjs,nodejs,express,prisma](https://skillicons.dev/icons?i=ts,js,go,cs,cpp,py,nestjs,nodejs,express,prisma)" alt="Backend Skills" />
-</p>
-<p align="left">
-  <img src="[https://img.shields.io/badge/Gin_Gonic-00ADD8?style=flat-square&logo=go&logoColor=white](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=flat-square&logo=go&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white](https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)" />
-</p>
+```bash
+kan@arch:~$ cat about.md
+```
 
-#### **Databases, Caching & Object Storage**
-<p align="left">
-  <img src="[https://skillicons.dev/icons?i=postgres,mongodb,redis](https://skillicons.dev/icons?i=postgres,mongodb,redis)" alt="Databases" />
-</p>
-<p align="left">
-  <img src="[https://img.shields.io/badge/MinIO_/_AWS_S3-C72E49?style=flat-square&logo=minio&logoColor=white](https://img.shields.io/badge/MinIO_/_AWS_S3-C72E49?style=flat-square&logo=minio&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)" />
-</p>
+- 🍅 Đang xây **Tomato Cinema** — microservices đa ngôn ngữ (NestJS + Go) với gRPC, RabbitMQ và full observability
+- 🌌 Có một "không gian riêng" tại **[tomatodev.me](https://tomatodev.me)** — portfolio Next.js + Three.js
+- 🐧 Dùng Arch (btw), tự host mọi thứ bằng Docker, nối các máy qua Tailscale
+- 🎯 Mục tiêu: Kỹ sư Phần mềm chuyên nghiệp, đào sâu Kubernetes và CI/CD
+- 🤝 Muốn gia nhập **GDGoC-UIT** để làm dự án cộng đồng, code review và kết nối
 
-#### **Frontend, 3D Web & Game Development**
-<p align="left">
-  <img src="[https://skillicons.dev/icons?i=react,redux,threejs,vite,unity,blender](https://skillicons.dev/icons?i=react,redux,threejs,vite,unity,blender)" alt="Frontend and 3D" />
-</p>
-<p align="left">
-  <img src="[https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=three.js&logoColor=white](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=three.js&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/Unity_URP-000000?style=flat-square&logo=unity&logoColor=white](https://img.shields.io/badge/Unity_URP-000000?style=flat-square&logo=unity&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Reverse_Engineering_&_Hex_Modding-4B5563?style=flat-square](https://img.shields.io/badge/Reverse_Engineering_&_Hex_Modding-4B5563?style=flat-square)" />
-</p>
+<br>
 
-#### **DevOps, Observability & Linux Infrastructure**
-<p align="left">
-  <img src="[https://skillicons.dev/icons?i=linux,arch,debian,docker,nginx,githubactions,prometheus,grafana,git](https://skillicons.dev/icons?i=linux,arch,debian,docker,nginx,githubactions,prometheus,grafana,git)" alt="DevOps and Linux" />
-</p>
-<p align="left">
-  <img src="[https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Tailscale_ACL-242424?style=flat-square&logo=tailscale&logoColor=white](https://img.shields.io/badge/Tailscale_ACL-242424?style=flat-square&logo=tailscale&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/Ollama_&_Local_AI-000000?style=flat-square](https://img.shields.io/badge/Ollama_&_Local_AI-000000?style=flat-square)" />
+```bash
+kan@arch:~$ tree ~/stack
+```
+
+```text
+~/stack
+├── lang      TypeScript · JavaScript · Go · SQL
+├── backend   NestJS · Go (Gin) · Express · gRPC/Protobuf · RabbitMQ · REST
+├── data      PostgreSQL · MongoDB · Redis · Prisma · TypeORM
+├── devops    Docker · Nginx · OpenTelemetry · Prometheus · Tempo · Loki · Grafana
+├── frontend  React 18 · Next.js · Tailwind · Redux Toolkit · Vite · GSAP
+└── tools     Linux · Git · Tailscale
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,go,nodejs,express,nestjs,react,nextjs,tailwind,redux,vite&theme=dark" alt="stack-1" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,rabbitmq,docker,nginx,grafana,prometheus,linux,arch,git&theme=dark" alt="stack-2" />
 </p>
 
----
+<br>
 
-### 🚀 Featured Projects & Systems
+```bash
+kan@arch:~$ git log --oneline --graph --all
+```
 
-| Project | Architecture & Key Features | Tech Stack |
-| :--- | :--- | :--- |
-| 🎬 **Tomato Cinema** | **Polyglot Microservices Movie Streaming Backend**<br>Monorepo architecture with dedicated `gateway`, `auth`, `account`, `media`, and `bot` services. Internal communication via gRPC/Protobuf and asynchronous event processing with RabbitMQ, backed by full distributed tracing. | `NestJS` `Go (Gin)` `gRPC` `RabbitMQ` `PostgreSQL` `Redis` `MinIO` `OpenTelemetry` |
-| 🛒 **Tomato Commerce** | **Fullstack E-Commerce & Analytics Platform**<br>End-to-end shopping platform featuring cart/order management, real-time analytics dashboard, and Stripe payment gateway integration. | `Node.js` `Express` `React 18` `Redux Toolkit` `MongoDB` `Stripe` `Vite` |
-| 🧊 **3D Interactive Room** | **Lofi Anime 3D Web Portfolio**<br>Custom 3D bedroom/desk scene modeled in Blender and rendered interactively on the web with smooth camera transitions and object interactions. | `Three.js` `React Three Fiber` `GSAP` `Blender` `TypeScript` |
-| 🖥️ **Self-Hosted Home Lab** | **Multi-Container Linux Server Infrastructure**<br>Debian server running automated workloads, media/file servers, monitoring stack, and modded game servers secured behind custom Tailscale ACL rules. | `Debian` `Docker Compose` `Prometheus` `Grafana` `Tailscale` `AdGuard` `n8n` |
-| 🤖 **AI Subtitle Pipeline** | **Automated Video Transcription & Bilingual Translation**<br>CLI workflow for extracting audio, generating accurate timestamps, and chunk-translating technical courses into bilingual subtitles. | `Python` `Whisper` `yt-dlp` `LLMs` |
+```text
+* a3f9c21 (HEAD -> main) tomato_cinema   NestJS 11 + Go 1.24 · gRPC · RabbitMQ · OTel · Nginx   [07/2026 → now]
+* 7be04d8 tomato_commerce   React 18 · Express · MongoDB · Stripe · Aggregation Pipelines        [03/2024 → 07/2024]
+```
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165em" src="[https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)" alt="GitHub Stats" />
-  <img height="165em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)" alt="GitHub Streak" />
-</div>
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
+<p align="center">
+  <a href="https://github.com/kan-ckm/tomato_cinema">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato_cinema&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="tomato_cinema" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_DOMAIN">
-    <img src="[https://img.shields.io/badge/3D_Portfolio-000000?style=for-the-badge&logo=three.js&logoColor=white](https://img.shields.io/badge/3D_Portfolio-000000?style=for-the-badge&logo=three.js&logoColor=white)" alt="Portfolio" />
-  </a>
-  <a href="[https://discord.com](https://discord.com)">
-    <img src="[https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)" alt="Discord" />
+  <a href="https://github.com/kan-ckm/tomato-commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato-commerce&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="tomato-commerce" />
   </a>
 </p>
+
+<br>
+
+```bash
+kan@arch:~$ htop --user kan-ckm
+```
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kan-ckm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kan-ckm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kan-ckm&theme=tokyonight&hide_border=true&background=1a1b26" alt="streak" />
+</p>
+
+<br>
+
+```bash
+kan@arch:~$ ssh tomatodev.me
+```
+
+<p align="center">
+  <a href="https://tomatodev.me"><img src="https://img.shields.io/badge/web-tomatodev.me-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="web" /></a>
+  <a href="mailto:at2356116@gmail.com"><img src="https://img.shields.io/badge/mail-at2356116%40gmail.com-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="mail" /></a>
+  <a href="https://github.com/kan-ckm"><img src="https://img.shields.io/badge/github-kan--ckm-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="github" /></a>
+</p>
+
+```bash
+kan@arch:~$ exit
+logout
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:bb9af7,50:7aa2f7,100:1a1b26&section=footer" width="100%" />
