@@ -91,10 +91,10 @@ kan@arch:~$ git log --oneline --graph --all
 
 <p align="center">
   <a href="https://github.com/kan-ckm/tomato_cinema">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato_cinema&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="🍅 tomato_cinema" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato_cinema&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt=" tomato_cinema" />
   </a>
   <a href="https://github.com/kan-ckm/tomato_Commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato_Commerce&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="🛒 tomato_Commerce" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato_Commerce&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt=" tomato_Commerce" />
   </a>
 </p>
 
