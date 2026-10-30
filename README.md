@@ -1,4 +1,3 @@
-# about-me
 <div align="center">
 
   <!-- Dynamic Typing Header -->
