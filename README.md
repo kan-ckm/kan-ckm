@@ -90,9 +90,9 @@ kan@arch:~$ git log --oneline --graph --all
 ```
 
 <p align="center">
-  🍅 <a href="https://github.com/kan-ckm/tomato_cinema"><b>tomato_cinema</b></a>
+   <a href="https://github.com/kan-ckm/tomato_cinema"><b>tomato_cinema</b></a>
   &nbsp;·&nbsp;
-  🛒 <a href="https://github.com/kan-ckm/tomato_Commerce"><b>tomato_Commerce</b></a>
+   <a href="https://github.com/kan-ckm/tomato_Commerce"><b>tomato_Commerce</b></a>
 </p>
 
 <br>
