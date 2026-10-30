@@ -23,7 +23,7 @@ name: Lê Phạm Tuấn Anh (Tomato)
 role: Fullstack Web & Microservices Engineer
 education: B.Sc. in Information Technology @ UTH (Ho Chi Minh City University of Transport)
 architecture_focus:
-  - Polyglot Microservices (NestJS & Golang)
+  - Polyglot Microservices (NestJS)
   - Event-Driven Architecture & High-Performance RPC (gRPC, Protobuf, RabbitMQ)
   - Fullstack Web & Interactive 3D Experiences (React, Three.js / R3F)
 environment:
