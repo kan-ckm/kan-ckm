@@ -106,8 +106,12 @@ kan@arch:~$ htop --user kan-ckm
 ```
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kan-ckm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kan-ckm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="top langs" />
+  <a href="https://github.com/kan-ckm/tomato_cinema">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato_cinema&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="tomato_cinema" />
+  </a>
+  <a href="https://github.com/kan-ckm/tomato_Commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kan-ckm&repo=tomato_Commerce&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="tomato_Commerce" />
+  </a>
 </p>
 
 <p align="center">
