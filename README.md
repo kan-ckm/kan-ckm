@@ -90,8 +90,12 @@ kan@arch:~$ git log --oneline --graph --all
 * 7be04d8 tomato_Commerce   React 18 · Express · MongoDB · Stripe · Aggregation Pipelines        [03/2024 → 07/2024]
 ```
 
+```bash
+kan@arch:~$ ./snake --eat contributions
+```
+
 <p align="center">
-  <img src="./metrics-featured.svg" width="420" alt="🍅 Featured repositories" />
+  <img src="https://raw.githubusercontent.com/kan-ckm/kan-ckm/output/snake.svg" alt="🐍 Snake eating my contributions" width="100%" />
 </p>
 
 <br>
@@ -99,11 +103,6 @@ kan@arch:~$ git log --oneline --graph --all
 ```bash
 kan@arch:~$ htop --user kan-ckm
 ```
-
-<p align="center">
-  <img src="./metrics-profile.svg" width="420" alt="📊 GitHub overview" />
-  <img src="./metrics-languages.svg" width="420" alt="💻 Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kan-ckm&theme=tokyonight&hide_border=true&background=1a1b26" alt="🔥 Streak" />

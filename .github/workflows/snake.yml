@@ -1,0 +1,33 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # mỗi 12 giờ
+  workflow_dispatch: # bấm chạy tay trong tab Actions
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write # để đẩy file SVG lên nhánh output
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Vẽ con rắn ăn bảng contribution, màu theo Tokyo Night
+      - name: Generate snake svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#9ece6a&color_dots=#24283b,#3d59a1,#7aa2f7,#7dcfff,#bb9af7
+
+      # Đẩy file lên nhánh "output" để nhánh chính không bị rối
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
