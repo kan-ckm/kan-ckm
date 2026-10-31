@@ -56,8 +56,6 @@ kan@arch:~$ cat about.md
 - 🌌 Có một "không gian riêng" tại **[tomatodev.me](https://tomatodev.me)** — portfolio Next.js + Three.js
 - 🐧 Dùng Arch (btw), tự host mọi thứ bằng Docker, nối các máy qua Tailscale
 - 🎯 Mục tiêu: Kỹ sư Phần mềm chuyên nghiệp, đào sâu Kubernetes và CI/CD
-- 🤝 Muốn gia nhập **GDGoC-UIT** để làm dự án cộng đồng, code review và kết nối
-
 <br>
 
 ```bash
