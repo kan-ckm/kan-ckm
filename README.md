@@ -31,7 +31,7 @@ kan@arch:~$ neofetch
 
   kan-ckm@arch
   ────────────────────────────
-  Name     Lê Phạm Tuấn Anh
+  Name     Tomato
   Role     Aspiring Software Engineer
   Edu      CNTT @ UTH (2026 → now)
   OS       Arch Linux
