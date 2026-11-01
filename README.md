@@ -73,7 +73,7 @@ kan@arch:~$ tree ~/stack
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,nodejs,express,nestjs,react,nextjs,tailwind,redux,vite&theme=dark" alt="stack-1" /><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,nodejs,nestjs,react,nextjs,tailwind,vite&theme=dark" alt="stack-1" /><br>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,rabbitmq,docker,nginx,grafana,prometheus,linux,arch,git&theme=dark" alt="stack-2" />
 </p>
 
