@@ -65,10 +65,10 @@ kan@arch:~$ tree ~/stack
 ```text
 ~/stack
 ├── lang      TypeScript · JavaScript · Go · SQL
-├── backend   NestJS · Go (Gin) · Express · gRPC/Protobuf · RabbitMQ · REST
+├── backend   NestJS · Go (Gin) · gRPC/Protobuf · RabbitMQ · REST
 ├── data      PostgreSQL · MongoDB · Redis · Prisma · TypeORM
 ├── devops    Docker · Nginx · OpenTelemetry · Prometheus · Tempo · Loki · Grafana
-├── frontend  React 18 · Next.js · Tailwind · Redux Toolkit · Vite · GSAP
+├── frontend  React 18 · Next.js · Tailwind · Vite · GSAP
 └── tools     Linux · Git · Tailscale
 ```
 
