@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      # Vẽ con rắn ăn bảng contribution, màu theo Tokyo Night
+      # Vẽ con rắn ăn bảng contribution
       - name: Generate snake svg
         uses: Platane/snk/svg-only@v3
         with:
