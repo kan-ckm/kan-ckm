@@ -20,7 +20,6 @@
 <tr>
 <td width="280" align="center">
 
-<!-- Thay bằng ảnh/GIF anime cute của bạn: đặt file vào assets/anime.gif -->
 <img src="./assets/anime.gif" width="260" alt="anime" />
 
 </td>
