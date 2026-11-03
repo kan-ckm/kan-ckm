@@ -98,16 +98,6 @@ tomato@arch:~$ ./snake --eat contributions
 <br>
 
 ```bash
-tomato@arch:~$ htop --user tomato-ckm
-```
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kan-ckm&theme=tokyonight&hide_border=true&background=1a1b26" alt="🔥 Streak" />
-</p>
-
-<br>
-
-```bash
 tomato@arch:~$ ssh tomatodev.me
 ```
 
