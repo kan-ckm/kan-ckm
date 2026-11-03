@@ -114,7 +114,7 @@ tomato@arch:~$ ssh tomatodev.me
 <p align="center">
   <a href="https://tomatodev.me"><img src="https://img.shields.io/badge/web-tomatodev.me-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="web" /></a>
   <a href="mailto:at2356116@gmail.com"><img src="https://img.shields.io/badge/mail-at2356116%40gmail.com-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="mail" /></a>
-  <a href="https://github.com/tomato-ckm"><img src="https://img.shields.io/badge/github-kan-ckm-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="github" /></a>
+  <a href="https://github.com/kan-ckm"><img src="https://img.shields.io/badge/github-kan--ckm-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="github" /></a>
 </p>
 
 ```bash
