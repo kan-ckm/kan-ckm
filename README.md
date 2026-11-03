@@ -92,7 +92,7 @@ tomato@arch:~$ ./snake --eat contributions
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tomato-ckm/tomato-ckm/output/snake.svg" alt="🐍 Snake eating my contributions" width="100%" />
+  <img src="https://raw.githubusercontent.com/kan-ckm/kan-ckm/output/snake.svg" alt="🐍 Snake eating my contributions" width="100%" />
 </p>
 
 <br>
@@ -102,7 +102,7 @@ tomato@arch:~$ htop --user tomato-ckm
 ```
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tomato-ckm&theme=tokyonight&hide_border=true&background=1a1b26" alt="🔥 Streak" />
+  <img src="https://streak-stats.demolab.com?user=kan-ckm&theme=tokyonight&hide_border=true&background=1a1b26" alt="🔥 Streak" />
 </p>
 
 <br>
