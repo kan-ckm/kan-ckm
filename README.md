@@ -26,9 +26,9 @@
 <td>
 
 ```bash
-kan@arch:~$ neofetch
+tomato@arch:~$ neofetch
 
-  kan-ckm@arch
+  tomato-ckm@arch
   ────────────────────────────
   Name     Tomato
   Role     Aspiring Software Engineer
@@ -48,7 +48,7 @@ kan@arch:~$ neofetch
 <br>
 
 ```bash
-kan@arch:~$ cat about.md
+tomato@arch:~$ cat about.md
 ```
 
 - 🍅 Đang xây **Tomato Cinema** — microservices đa ngôn ngữ (NestJS + Go) với gRPC, RabbitMQ và full observability
@@ -58,7 +58,7 @@ kan@arch:~$ cat about.md
 <br>
 
 ```bash
-kan@arch:~$ tree ~/stack
+tomato@arch:~$ tree ~/stack
 ```
 
 ```text
@@ -79,7 +79,7 @@ kan@arch:~$ tree ~/stack
 <br>
 
 ```bash
-kan@arch:~$ git log --oneline --graph --all
+tomato@arch:~$ git log --oneline --graph --all
 ```
 
 ```text
@@ -88,37 +88,37 @@ kan@arch:~$ git log --oneline --graph --all
 ```
 
 ```bash
-kan@arch:~$ ./snake --eat contributions
+tomato@arch:~$ ./snake --eat contributions
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kan-ckm/kan-ckm/output/snake.svg" alt="🐍 Snake eating my contributions" width="100%" />
+  <img src="https://raw.githubusercontent.com/tomato-ckm/tomato-ckm/output/snake.svg" alt="🐍 Snake eating my contributions" width="100%" />
 </p>
 
 <br>
 
 ```bash
-kan@arch:~$ htop --user kan-ckm
+tomato@arch:~$ htop --user tomato-ckm
 ```
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kan-ckm&theme=tokyonight&hide_border=true&background=1a1b26" alt="🔥 Streak" />
+  <img src="https://streak-stats.demolab.com?user=tomato-ckm&theme=tokyonight&hide_border=true&background=1a1b26" alt="🔥 Streak" />
 </p>
 
 <br>
 
 ```bash
-kan@arch:~$ ssh tomatodev.me
+tomato@arch:~$ ssh tomatodev.me
 ```
 
 <p align="center">
   <a href="https://tomatodev.me"><img src="https://img.shields.io/badge/web-tomatodev.me-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="web" /></a>
   <a href="mailto:at2356116@gmail.com"><img src="https://img.shields.io/badge/mail-at2356116%40gmail.com-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="mail" /></a>
-  <a href="https://github.com/kan-ckm"><img src="https://img.shields.io/badge/github-kan--ckm-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="github" /></a>
+  <a href="https://github.com/tomato-ckm"><img src="https://img.shields.io/badge/github-tomato--ckm-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="github" /></a>
 </p>
 
 ```bash
-kan@arch:~$ exit
+tomato@arch:~$ exit
 logout
 ```
 
