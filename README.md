@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a1b26,50:7aa2f7,100:bb9af7&section=header&text=kan-ckm&fontColor=c0caf5&fontSize=44&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a1b26,50:7aa2f7,100:bb9af7&section=header&text=tomato-ckm&fontColor=c0caf5&fontSize=44&fontAlignY=40" width="100%" />
 
 <a href="https://tomatodev.me">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&height=30&lines=%24+whoami+%E2%86%92+Aspiring+Software+Engineer;Distributed+Systems+%7C+NestJS+%2B+Go;Arch+Linux+%2B+Docker+%2B+Tailscale;Building+%E2%86%92+tomatodev.me" alt="typing" />
